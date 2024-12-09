@@ -45,6 +45,8 @@ The tool focuses on algorithmic efficiency, time and space complexity, memory ma
 streamlit run app.py
 
 ```
+## Detailed code analysis for example code :
+[View Document](https://docs.google.com/document/d/1KeCqUXiqpktyKpVgf3AcltEQ-HYRsXjN8ofP2TgcM1M/edit?usp=sharing)
 
 # Design Choices
 
@@ -70,3 +72,12 @@ streamlit run app.py
 - **Scope of Analysis**: The tool provides general performance suggestions but does not cover language-specific or domain-specific optimizations.
 - **Input Length**: There may be limitations on the size of code snippets that can be analyzed, especially for very large codebases.
 - **Model Limitations**: The analysis is only as good as the AI model's training and may not be 100% accurate in all cases.
+
+## Application Images 
+Image 1:
+<img width="952" alt="assignement ss1" src="https://github.com/user-attachments/assets/a058b77d-f820-45c3-992a-e7a931b019de">
+Image 2:
+<img width="952" alt="assignement ss2" src="https://github.com/user-attachments/assets/a5b7cdae-3096-4bb4-87c7-a6683506687e">
+Image 3:
+<img width="952" alt="ss3" src="https://github.com/user-attachments/assets/4db8bdec-8392-4b7e-bb1b-0205b1d96369">
+
